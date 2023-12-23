@@ -38,7 +38,7 @@
                 android:layout_margin="0.5dp"
                 android:layout_weight="1"
                 android:text="     06:00"
-                android:textColor="@drawable/selector_ex"
+                android:textColor="@color/black"
                 android:textStyle="bold"/>
 
             <TextView
